@@ -1,4 +1,4 @@
-# show-touches
+# Show Touches
 Simple [SetBox](https://github.com/YasserNull/setbox) module to show touches 
 
 ### Visitors at SetBox
