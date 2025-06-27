@@ -1,0 +1,7 @@
+id=show-touches
+name=Show touches
+description=Simple module to show touches
+author=YasserYvY
+version=v1.0.0
+versionCode=1
+repository=https://github.com/YasserYvY/show-touches
